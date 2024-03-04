@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite .",
-    "build and small": "npm version patch && vite build"
+    "build": "vite build",
+    "small version":"npm version path"
   },
   "keywords": [],
   "author": "",
