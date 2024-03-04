@@ -1,11 +1,11 @@
 {
   "name": "gsapdemo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"vite .",
-    "build and small":"npm version patch && vite build"
+    "dev": "vite .",
+    "build and small": "npm version patch && vite build"
   },
   "keywords": [],
   "author": "",
